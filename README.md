@@ -10,6 +10,7 @@ Contains materials + codebase presented during the talk on augmented reality on 
 ##### Important links and references:
 - Access our presentation here 👉 https://docs.google.com/presentation/d/1z_1P1FLrQUr_4hxnRWnS5o_bOaNV_hhNaoiGzKdBMTE/edit?usp=sharing
 
+
 ##### Three JS live examples
 [Cloth Animation](https://threejs.org/examples/webgl_animation_cloth.html)
 [Robot Anumation](https://threejs.org/examples/webgl_animation_skinning_morph.html)
@@ -21,4 +22,7 @@ Contains materials + codebase presented during the talk on augmented reality on 
 [Touch with hands example](http://edankwan.com/experiments/touch/)
 
 Click [here](https://threejs.org/) to view more such examples on the official website
+
+- Some more examples of AR Web Applications built using AR.js 👉 https://stemkoski.github.io/AR-Examples/
+
 
