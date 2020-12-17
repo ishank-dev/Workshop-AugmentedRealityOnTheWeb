@@ -7,5 +7,6 @@ Contains materials + codebase presented during the talk on augmented reality on 
 
 ## Topic - Augemented Reality on The Web
 
-Important links and references:
+##### Important links and references:
+- Access our presentation here 👉 https://docs.google.com/presentation/d/1z_1P1FLrQUr_4hxnRWnS5o_bOaNV_hhNaoiGzKdBMTE/edit?usp=sharing
 
