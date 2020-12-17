@@ -12,14 +12,14 @@ Contains materials + codebase presented during the talk on augmented reality on 
 
 
 ##### Three JS live examples
-[Cloth Animation](https://threejs.org/examples/webgl_animation_cloth.html)
-[Robot Anumation](https://threejs.org/examples/webgl_animation_skinning_morph.html)
-[Face Paint](https://threejs.org/examples/#webgl_decals)
+- [Cloth Animation](https://threejs.org/examples/webgl_animation_cloth.html)<br>
+- [Robot Anumation](https://threejs.org/examples/webgl_animation_skinning_morph.html)<br>
+- [Face Paint](https://threejs.org/examples/#webgl_decals)<br>
 
 ##### Websites implementing threeJS examples
-[George and Jonathan Music Composition Website](http://www.georgeandjonathan.com/#1)
-[Zenly app](https://zen.ly/)
-[Touch with hands example](http://edankwan.com/experiments/touch/)
+- [George and Jonathan Music Composition Website](http://www.georgeandjonathan.com/#1)
+- [Zenly app](https://zen.ly/)
+- [Touch with hands example](http://edankwan.com/experiments/touch/)
 
 Click [here](https://threejs.org/) to view more such examples on the official website
 
