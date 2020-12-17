@@ -1,4 +1,4 @@
-# Workshop-AugmentedRealityOnTheWeb
+# Augmented Reality on the Web
 Contains materials + codebase presented during the talk on augmented reality on the web
 
 ### Workshop Session Details
