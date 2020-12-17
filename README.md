@@ -10,3 +10,5 @@ Contains materials + codebase presented during the talk on augmented reality on 
 ##### Important links and references:
 - Access our presentation here 👉 https://docs.google.com/presentation/d/1z_1P1FLrQUr_4hxnRWnS5o_bOaNV_hhNaoiGzKdBMTE/edit?usp=sharing
 
+- Some more examples of AR Web Applications built using AR.js 👉 https://stemkoski.github.io/AR-Examples/
+
